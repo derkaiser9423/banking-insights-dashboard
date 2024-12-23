@@ -1,2 +1,2 @@
 # banking-insights-dashboard
- R Shiny dashboard for banking
+ R Shiny and Python-based dashboard for banking
