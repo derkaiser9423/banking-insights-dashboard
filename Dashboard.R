@@ -4,7 +4,8 @@ library(ggplot2)
 library(dplyr)
 
 # Load the dataset
-data <- read.csv("bank_full.csv")
+data <- read.csv("bank-full.csv", sep = ";", header = TRUE)
+
 
 # Define the User Interface (UI)
 ui <- fluidPage(
